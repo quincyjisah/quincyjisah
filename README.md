@@ -10,7 +10,7 @@ I build practical software across **AI workflow systems, crypto-native products,
 
 | Project | What it does | Built for | Verified stage |
 |---|---|---|---|
-| **USDT Ride (formerly Open Velo)** · private | Crypto-only mobility marketplace designed around TRON USDT escrow, verified wallet ownership, ride lifecycle and dispute handling | Riders, drivers and mobility operators | TRON contracts and wallet-auth flow under local engineering verification; no live rides, deployed escrow or real-fund payments |
+| **USDT Ride / SOLTRENA** · private | Crypto-only payments and mobility super-app preview: TRON wallet connection, address-only receive QR, read-only USDT balance/history and shareable off-chain request details | Crypto users, P2P payers and mobility operators | 119 tests pass; production web build and dependency audit pass. Direct sends, durable invoices, merchant checkout, ride settlement and deployed escrow remain disabled; SOLTRENA name is not IP-cleared |
 | **ATLAS** · private | Human-in-the-loop AI operating system with traceable plans, approvals and cost-aware automation | Individuals, founders and small teams | Early product foundation; production integrations and live security checks remain |
 | **LeadPilot** · private | Lead inbox, enquiry triage, follow-up prioritisation and response drafting | Freelancers and small service businesses | Local MVP; production authentication and multi-tenant sync remain |
 | **FRP Lab** · private | Android diagnostics and authorised device-security research | Device owners, technicians and Android developers | Demo dashboard and limited native diagnostics; device validation remains |
