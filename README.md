@@ -19,7 +19,7 @@ I build practical software across **AI workflow systems, crypto-native products,
 | **FIRE STAR ONLINE** · private repo | Specialist technology marketplace concept focused on product provenance, seller trust and crypto-native settlement | Specialist hardware buyers and sellers | Static preview; no live listings, payments or sign-ups |
 | **X-Market** · private repo | Live-first auction marketplace with 24-hour auctions, USDT-only settlement targeting Ethereum, TRON, Solana, Polygon PoS, BNB Smart Chain, Arbitrum One and Avalanche C-Chain, plus social livestream distribution | Crypto-native buyers, sellers, creators and livestream merchants | Product brief and architecture only; app, auction engine, escrow adapters and streaming are not implemented |
 | **Aries Contracts** · public repo | Solidity escrow, dispute resolution and NFT asset contracts for a chess-based Web3 game | Web3 game builders and smart-contract engineers | 59 Hardhat tests plus one dependency-security test pass; no production deployment or independent audit |
-| **Crypto Blackjack** · local/private | Terminal-first crypto-game experiment | Crypto-game developers and systems tinkerers | Private prototype; no production wagering or payout service |
+| **Crypto Blackjack** · local/private | Non-wagering terminal blackjack with cryptographic shuffling and server-authoritative multiplayer sessions | Game developers and systems tinkerers | Local prototype; 14 automated tests pass; no wallet signing, wagers or payout path |
 
 Private repositories and local prototypes are intentionally not linked. Public repositories are linked below. Portfolio inclusion is not a claim that a project is production-ready.
 
