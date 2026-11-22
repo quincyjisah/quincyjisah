@@ -18,10 +18,10 @@ I build practical software across **AI workflow systems, crypto-native products,
 | **LEAP** · private | AI-assisted application-builder concept and product interface | Independent developers and small teams | Frontend concept; AI generation and backend are not connected |
 | **FIRE STAR ONLINE** · private repo | Specialist technology marketplace concept focused on product provenance, seller trust and crypto-native settlement | Specialist hardware buyers and sellers | Static preview; no live listings, payments or sign-ups |
 | **X-Market** · private repo | Live-first auction marketplace with 24-hour auctions, USDT-only settlement targeting Ethereum, TRON, Solana, Polygon PoS, BNB Smart Chain, Arbitrum One and Avalanche C-Chain, plus social livestream distribution | Crypto-native buyers, sellers, creators and livestream merchants | Product brief and architecture only; app, auction engine, escrow adapters and streaming are not implemented |
-| **Aries Contracts** · private workspace | Solidity escrow, dispute resolution and NFT asset contracts for a chess-based Web3 game | Web3 game builders and smart-contract engineers | 59 Hardhat tests plus one dependency-security test pass; no production deployment or independent audit |
+| **Aries Contracts** · public repo | Solidity escrow, dispute resolution and NFT asset contracts for a chess-based Web3 game | Web3 game builders and smart-contract engineers | 59 Hardhat tests plus one dependency-security test pass; no production deployment or independent audit |
 | **Crypto Blackjack** · local/private | Terminal-first crypto-game experiment | Crypto-game developers and systems tinkerers | Private prototype; no production wagering or payout service |
 
-Private repositories and local prototypes are intentionally not linked. Their inclusion is not a claim that they are production-ready.
+Private repositories and local prototypes are intentionally not linked. Public repositories are linked below. Portfolio inclusion is not a claim that a project is production-ready.
 
 ## Project visuals
 
@@ -52,6 +52,7 @@ These original SVG covers are portfolio illustrations, not screenshots or claims
 </div>
 
 - [Crypto Chess](https://github.com/quincyjisah/CRYPTO-CHESS-USTD) — public concept and prototype documentation for a chess/Web3 project; no live wagers or escrow.
+- [Aries Contracts](https://github.com/quincyjisah/CRYPTO-CHESS-USTD/tree/work/aries-source-import/aries-app/backend/contracts-workspace) — Solidity escrow and Genesis NFT contract workspace; 59 Hardhat tests and one dependency-security test pass, with no production deployment or independent audit.
 - [Android Manifest](https://github.com/quincyjisah/android_manifest) — historical Havoc-OS Android 10 source manifest for ROM maintainers; not a current Android 16 baseline.
 - [Samsung Galaxy A5 2016 device tree](https://github.com/quincyjisah/android_device_samsung_a5xeltexx) — legacy LineageOS 15.1 device tree for SM-A510F, SM-A510M and SM-A510Y variants.
 
