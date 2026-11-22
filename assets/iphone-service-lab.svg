@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="360" viewBox="0 0 760 360" role="img" aria-label="IPHONE SERVICE LAB — Diagnostics backed by verifiable evidence">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080c16"/><stop offset="1" stop-color="#17243a"/></linearGradient><linearGradient id="accent"><stop stop-color="#e1b85a"/><stop offset="1" stop-color="#b87ce6"/></linearGradient><radialGradient id="glow"><stop stop-color="#e1b85a" stop-opacity=".28"/><stop offset="1" stop-color="#e1b85a" stop-opacity="0"/></radialGradient><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#cbd5e1" stroke-opacity=".07"/></pattern></defs>
+<rect width="760" height="360" rx="24" fill="url(#bg)"/><rect width="760" height="360" rx="24" fill="url(#grid)"/><circle cx="560" cy="180" r="230" fill="url(#glow)"/>
+<g fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity=".9"><rect x="490" y="48" width="120" height="270" rx="24"/><path d="M525 85 H575 M515 125 H585 M515 160 H585 M515 195 H585 M530 285 H570"/><circle cx="550" cy="235" r="16"/></g>
+<text x="54" y="75" fill="#e1b85a" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">READ-ONLY MOBILE RESEARCH</text>
+<text x="54" y="155" fill="#f8fafc" font-family="Arial,sans-serif" font-size="42" font-weight="800">IPHONE SERVICE LAB</text>
+<text x="56" y="198" fill="#aab9d0" font-family="Arial,sans-serif" font-size="18">Diagnostics backed by verifiable evidence</text>
+<rect x="56" y="245" width="94" height="4" rx="2" fill="url(#accent)"/><text x="56" y="300" fill="#64748b" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">INDEPENDENT PRODUCT WORK</text>
+</svg>

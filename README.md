@@ -10,18 +10,38 @@ I build practical software across **AI workflow systems, crypto-native products,
 
 | Project | What it does | Built for | Verified stage |
 |---|---|---|---|
-| **Open Velo** · private | Crypto-only ride marketplace concept with wallet-based ride deposits and escrow | Riders, drivers and mobility operators | Ethereum Sepolia prototype; no live rides or real-fund payments |
+| **USDT Ride (formerly Open Velo)** · private | Crypto-only mobility marketplace designed around TRON USDT escrow, verified wallet ownership, ride lifecycle and dispute handling | Riders, drivers and mobility operators | TRON contracts and wallet-auth flow under local engineering verification; no live rides, deployed escrow or real-fund payments |
 | **ATLAS** · private | Human-in-the-loop AI operating system with traceable plans, approvals and cost-aware automation | Individuals, founders and small teams | Early product foundation; production integrations and live security checks remain |
 | **LeadPilot** · private | Lead inbox, enquiry triage, follow-up prioritisation and response drafting | Freelancers and small service businesses | Local MVP; production authentication and multi-tenant sync remain |
 | **FRP Lab** · private | Android diagnostics and authorised device-security research | Device owners, technicians and Android developers | Demo dashboard and limited native diagnostics; device validation remains |
 | **iPhone Service Lab** · private | Read-only iPhone diagnostics and evidence-led firmware research | iPhone owners and authorised mobile technicians | Read-only research toolkit; no device modification |
 | **LEAP** · private | AI-assisted application-builder concept and product interface | Independent developers and small teams | Frontend concept; AI generation and backend are not connected |
-| **FIRE STAR ONLINE** · private repo | Specialist technology marketplace concept with product-provenance and crypto-settlement direction | Specialist hardware buyers and sellers | Static preview; no live listings, payments or sign-ups |
+| **FIRE STAR ONLINE** · private repo | Specialist technology marketplace concept focused on product provenance, seller trust and crypto-native settlement | Specialist hardware buyers and sellers | Static preview; no live listings, payments or sign-ups |
 | **X-Market** · private repo | Live-first auction marketplace with 24-hour auctions, USDT-only multi-chain settlement and social livestream distribution | Crypto-native buyers, sellers, creators and livestream merchants | Product brief only; app, auction engine, chain integrations and streaming are not implemented |
-| **Aries Contracts** · private workspace | Escrow, dispute and NFT contracts for a chess-based Web3 game | Web3 game builders and contract engineers | Local tests pass; no production deployment or independent audit |
+| **Aries Contracts** · private workspace | Solidity escrow, dispute resolution and NFT asset contracts for a chess-based Web3 game | Web3 game builders and smart-contract engineers | 54 local tests pass; no production deployment or independent audit |
 | **Crypto Blackjack** · local/private | Terminal-first crypto-game experiment | Crypto-game developers and systems tinkerers | Private prototype; no production wagering or payout service |
 
 Private repositories and local prototypes are intentionally not linked. Their inclusion is not a claim that they are production-ready.
+
+## Project visuals
+
+These original SVG covers are portfolio illustrations, not screenshots or claims of deployed functionality. Each project README and release-gate document remains the source of truth for implementation status.
+
+<div align="center">
+  <img src="assets/usdt-ride.svg" width="32%" alt="USDT Ride project cover">
+  <img src="assets/atlas.svg" width="32%" alt="ATLAS project cover">
+  <img src="assets/x-market.svg" width="32%" alt="X-Market project cover">
+</div>
+<div align="center">
+  <img src="assets/fair-market.svg" width="32%" alt="FIRE STAR ONLINE project cover">
+  <img src="assets/aries-contracts.svg" width="32%" alt="Aries Contracts project cover">
+  <img src="assets/leadpilot.svg" width="32%" alt="LeadPilot project cover">
+</div>
+<div align="center">
+  <img src="assets/frp-lab.svg" width="32%" alt="FRP Lab project cover">
+  <img src="assets/iphone-service-lab.svg" width="32%" alt="iPhone Service Lab project cover">
+  <img src="assets/leap.svg" width="32%" alt="LEAP project cover">
+</div>
 
 ## Public repositories
 
