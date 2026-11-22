@@ -17,7 +17,7 @@ I build practical software across **AI workflow systems, crypto-native products,
 | **iPhone Service Lab** · private | Read-only iPhone diagnostics and evidence-led firmware research | iPhone owners and authorised mobile technicians | Read-only research toolkit; no device modification |
 | **LEAP** · private | AI-assisted application-builder concept and product interface | Independent developers and small teams | Frontend concept; AI generation and backend are not connected |
 | **FIRE STAR ONLINE** · private repo | Specialist technology marketplace concept with product-provenance and crypto-settlement direction | Specialist hardware buyers and sellers | Static preview; no live listings, payments or sign-ups |
-| **X-Market** · private repo | Crypto-only marketplace concept inspired by large-scale online retail, with a distinct product model | Crypto-native buyers, sellers and independent merchants | Repository has no default branch or source files yet; no live marketplace or payments |
+| **X-Market** · private repo | Crypto-only marketplace concept inspired by large-scale online retail, with a distinct product model | Crypto-native buyers, sellers and independent merchants | README-only concept; no application source, live listings or payments |
 | **Aries Contracts** · private workspace | Escrow, dispute and NFT contracts for a chess-based Web3 game | Web3 game builders and contract engineers | Local tests pass; no production deployment or independent audit |
 | **Crypto Blackjack** · local/private | Terminal-first crypto-game experiment | Crypto-game developers and systems tinkerers | Private prototype; no production wagering or payout service |
 
