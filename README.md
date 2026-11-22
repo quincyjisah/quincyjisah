@@ -42,6 +42,9 @@ These original SVG covers are portfolio illustrations, not screenshots or claims
   <img src="assets/iphone-service-lab.svg" width="32%" alt="iPhone Service Lab project cover">
   <img src="assets/leap.svg" width="32%" alt="LEAP project cover">
 </div>
+<div align="center">
+  <img src="assets/crypto-blackjack.svg" width="32%" alt="Crypto Blackjack project cover">
+</div>
 
 ## Public repositories
 
